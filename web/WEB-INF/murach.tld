@@ -8,4 +8,9 @@
     <tag-class>murach.tags.CartTag</tag-class>
     <body-content>JSP</body-content>
   </tag>
+  <tag>
+  <name>products</name>
+    <tag-class>murach.tags.ProductsTag</tag-class>
+    <body-content>JSP</body-content>
+  </tag>
 </taglib>
